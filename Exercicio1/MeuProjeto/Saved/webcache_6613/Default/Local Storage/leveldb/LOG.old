@@ -1,0 +1,29 @@
+2026/09/09-20:54:33.074 3f64 Creating DB C:\Users\luckx\Área de Trabalho\ExercicioAnimacao\MeuProjeto\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/09/09-20:54:33.106 3f64 Reusing MANIFEST C:\Users\luckx\Área de Trabalho\ExercicioAnimacao\MeuProjeto\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/09-21:01:41.989 4d40 Level-0 table #5: started
+2026/09/09-21:01:41.999 4d40 Level-0 table #5: 75795 bytes OK
+2026/09/09-21:01:42.001 4d40 Delete type=0 #3
+2026/09/09-21:10:27.391 4d40 Level-0 table #7: started
+2026/09/09-21:10:27.398 4d40 Level-0 table #7: 72630 bytes OK
+2026/09/09-21:10:27.401 4d40 Delete type=0 #4
+2026/09/09-21:11:53.112 4d40 Level-0 table #9: started
+2026/09/09-21:11:53.124 4d40 Level-0 table #9: 76422 bytes OK
+2026/09/09-21:11:53.126 4d40 Delete type=0 #6
+2026/09/09-21:12:58.336 4d40 Level-0 table #11: started
+2026/09/09-21:12:58.345 4d40 Level-0 table #11: 80978 bytes OK
+2026/09/09-21:12:58.348 4d40 Delete type=0 #8
+2026/09/09-21:14:05.632 4d40 Level-0 table #13: started
+2026/09/09-21:14:05.638 4d40 Level-0 table #13: 83522 bytes OK
+2026/09/09-21:14:05.641 4d40 Delete type=0 #10
+2026/09/09-21:16:35.368 4d40 Level-0 table #15: started
+2026/09/09-21:16:35.380 4d40 Level-0 table #15: 85280 bytes OK
+2026/09/09-21:16:35.381 4d40 Delete type=0 #12
+2026/09/09-21:16:35.383 4d40 Compacting 4@0 + 1@1 files
+2026/09/09-21:16:35.389 4d40 Generated table #16@0: 4 keys, 28786 bytes
+2026/09/09-21:16:35.390 4d40 Compacted 4@0 + 1@1 files => 28786 bytes
+2026/09/09-21:16:35.390 4d40 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/09-21:16:35.391 4d40 Delete type=2 #7
+2026/09/09-21:16:35.391 4d40 Delete type=2 #9
+2026/09/09-21:16:35.391 4d40 Delete type=2 #11
+2026/09/09-21:16:35.391 4d40 Delete type=2 #13
+2026/09/09-21:16:35.391 4d40 Delete type=2 #15

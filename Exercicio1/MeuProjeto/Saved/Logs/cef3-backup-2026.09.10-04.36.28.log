@@ -1,0 +1,74 @@
+[17052:16932:0909/205432.619:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17052:15424:0909/205432.931:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17052:16932:0909/205432.981:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3776:9536:0909/205446.921:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B037216F79E5FB0B3F4C966D88FAA143 will be ignored
+[21368:15844:0909/205447.677:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21368:10448:0909/205447.823:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21368:10448:0909/205447.824:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21368:10448:0909/205447.826:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17840:15488:0909/205447.944:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
+[17052:8348:0909/205448.697:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17052:16932:0909/205448.758:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17052:16932:0909/205448.758:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17052:16932:0909/205448.758:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17052:16932:0909/205448.758:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[17052:8348:0909/205448.765:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[13844:5004:0909/205448.914:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13844:11160:0909/205448.979:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13844:11160:0909/205448.979:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13844:11160:0909/205448.980:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17840:15488:0909/205449.313:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17840:15488:0909/205449.338:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17052:8348:0909/205449.520:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17052:8348:0909/205449.520:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13844:5004:0909/205450.764:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17840:15488:0909/205459.714:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17840:15488:0909/205508.526:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5864:3740:0909/205656.152:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5864:3740:0909/205656.152:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18060:15384:0909/205656.921:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-412EB5BC4B8FAB927AFD22F24410D576 will be ignored
+[5864:21376:0909/205736.708:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[5864:16784:0909/205736.864:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[5864:21376:0909/205737.693:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[5864:22028:0909/205737.855:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[18348:5000:0909/210015.743:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 11-EA93FC455D76D3BB61A32BD88014644C will be ignored
+[5864:21376:0909/210101.492:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[5864:3740:0909/210102.209:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5864:3740:0909/210117.192:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[17052:16932:0909/210238.534:ERROR:device_event_log_impl.cc(196)] [21:02:38.523] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[1744:15384:0909/211006.838:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 14-A42CF49BAFA25AE583ABEF5A826E50C5 will be ignored
+[17052:13212:0909/211230.919:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211230.933:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17340:0909/211233.699:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13212:0909/211233.705:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13212:0909/211238.711:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211238.881:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211239.915:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13212:0909/211239.966:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211240.067:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13212:0909/211244.968:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211245.081:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13540:0909/211251.650:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211251.665:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17052:13540:0909/211251.668:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:17336:0909/211251.671:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[17840:15488:0909/211302.470:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17840:15488:0909/211302.503:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17840:15488:0909/211311.936:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17840:15488:0909/211324.152:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[17052:8348:0909/224106.838:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17052:8348:0909/224106.838:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17052:16932:0910/013628.529:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
