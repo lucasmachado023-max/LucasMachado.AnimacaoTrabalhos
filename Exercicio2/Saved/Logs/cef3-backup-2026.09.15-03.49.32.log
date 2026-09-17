@@ -1,0 +1,86 @@
+[5460:23532:0914/232524.382:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5460:24560:0914/232524.420:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5460:23532:0914/232524.442:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6204:24312:0914/232529.093:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CA1CBF72B9940AEAB492BEE0F85D89C7 will be ignored
+[20808:19596:0914/232529.580:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20808:20660:0914/232529.601:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20808:20660:0914/232529.601:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20808:20660:0914/232529.602:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[5460:24536:0914/232529.941:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[5460:23532:0914/232530.012:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5460:23532:0914/232530.012:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5460:23532:0914/232530.012:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5460:23532:0914/232530.013:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5460:24536:0914/232530.019:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21444:10400:0914/232530.105:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21444:12868:0914/232530.142:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21444:12868:0914/232530.142:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21444:12868:0914/232530.142:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8052:25416:0914/232531.336:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/232531.352:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[21444:10400:0914/232532.365:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8052:25416:0914/232543.823:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/232552.220:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[25488:25572:0914/232737.380:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[25488:25572:0914/232737.380:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7336:24352:0914/232755.109:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-E0343AA9328DE24CDE4743998A83330F will be ignored
+[25488:22308:0914/232842.035:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[25488:5820:0914/232842.181:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[25488:22308:0914/232842.870:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[25488:23132:0914/232842.877:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[25488:22412:0914/232842.877:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[25488:23896:0914/232842.889:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[25488:21348:0914/232843.043:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[25488:24292:0914/232843.044:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[5460:24536:0914/233136.900:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25488:22308:0914/233151.882:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[8052:14952:0914/233551.730:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:24528:0914/233551.733:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:5804:0914/233554.434:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:14952:0914/233554.441:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:25416:0914/233603.012:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/233603.035:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/233611.785:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/233623.507:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[8052:11940:0914/233634.872:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:24528:0914/233634.878:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:5804:0914/233640.537:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:14952:0914/233640.537:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:5804:0914/233645.540:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:11940:0914/233645.553:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5460:5804:0914/233652.479:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:11940:0914/233652.479:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:25416:0914/233704.665:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0914/233705.098:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[8052:25416:0914/233720.002:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[8052:25416:0914/233732.001:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5460:24536:0915/000145.742:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22552:24940:0915/000358.328:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame F-DC1F45D9BE545C46A35B619347A7143B will be ignored
+[5460:24528:0915/001045.718:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:14952:0915/001045.721:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8052:25416:0915/001057.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[8052:25416:0915/001058.086:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0915/001111.087:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[8052:25416:0915/001123.579:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5460:23532:0915/004932.574:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

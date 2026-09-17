@@ -1,0 +1,72 @@
+[9428:1124:0916/091854.753:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9428:7216:0916/091854.796:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9428:1124:0916/091854.834:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6184:20280:0916/091900.783:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5BABFB7C301A15AEF0B464B9539166F4 will be ignored
+[22944:1984:0916/091902.782:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22944:1984:0916/091903.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22944:1984:0916/091917.115:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22944:1984:0916/091930.450:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9428:20472:0916/092921.918:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9428:14052:0916/101837.389:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:2676:0916/101837.415:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:11996:0916/101840.538:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101840.544:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101845.540:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101845.547:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101848.496:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101848.519:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101851.276:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101851.287:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:14052:0916/101854.031:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101854.039:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101857.028:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101857.036:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101859.941:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:14076:0916/101859.949:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101904.945:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101904.954:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:14052:0916/101908.165:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101908.186:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:2676:0916/101908.187:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101913.189:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101913.207:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101915.710:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101915.731:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9428:7216:0916/101920.714:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:6792:0916/101920.748:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[22944:1984:0916/101937.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[22944:1984:0916/101938.001:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22944:1984:0916/101949.745:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22944:1984:0916/102002.950:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[9428:20472:0916/102440.224:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9428:20472:0916/104738.220:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9428:20472:0916/111738.121:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9428:1124:0916/112811.198:ERROR:device_event_log_impl.cc(196)] [11:28:11.092] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9428:1124:0916/112811.198:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[9428:1124:0916/112811.198:ERROR:device_event_log_impl.cc(196)] [11:28:11.198] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_8008&pid_2d27#12345#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[9428:1124:0916/112811.536:ERROR:device_event_log_impl.cc(196)] [11:28:11.534] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9428:20472:0916/114738.974:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9428:20472:0916/121740.166:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4600:11596:0916/123302.975:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-6114046F2FE70F51BFDD403C97200987 will be ignored
+[6808:9860:0916/123518.176:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[6808:924:0916/123518.349:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[6808:5608:0916/123518.969:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[6808:18260:0916/123519.131:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[6808:13264:0916/123519.147:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[6808:21708:0916/123520.284:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[9428:1124:0916/131312.631:ERROR:device_event_log_impl.cc(196)] [13:13:12.343] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[9428:1124:0916/131312.632:ERROR:device_event_log_impl.cc(196)] [13:13:12.358] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Não há mais dados disponíveis. (0x103)
+[9428:1124:0916/132328.333:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

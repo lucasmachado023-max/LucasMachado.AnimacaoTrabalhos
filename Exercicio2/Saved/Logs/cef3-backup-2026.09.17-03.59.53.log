@@ -1,0 +1,15 @@
+[22388:2700:0916/162457.508:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22388:19240:0916/162457.539:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[22388:2700:0916/162457.559:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19124:14940:0916/162501.745:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8A2D40D1212A06D8624949BA5724615D will be ignored
+[20216:14240:0916/162504.082:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22388:1500:0916/162504.409:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20216:14240:0916/162504.844:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20216:14240:0916/162519.746:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20216:14240:0916/162529.830:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[22388:2700:0916/171110.046:ERROR:device_event_log_impl.cc(196)] [17:11:10.030] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[22388:2700:0916/171110.355:ERROR:device_event_log_impl.cc(196)] [17:11:10.053] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Não há mais dados disponíveis. (0x103)
+[22388:1500:0916/213351.890:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22388:1500:0916/234303.878:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22388:1500:0916/234902.636:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22388:2700:0917/005953.090:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

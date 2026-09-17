@@ -1,0 +1,113 @@
+[20732:19948:0915/225512.488:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20732:10308:0915/225512.529:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20732:19948:0915/225512.562:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21260:3548:0915/225518.669:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B6B36C5C7C1DE5516046FDAD4C7338F3 will be ignored
+[20732:3008:0915/225519.507:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6944:11952:0915/225520.339:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/225520.359:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/225534.440:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/225548.366:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232041.547:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232041.564:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232044.333:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232044.344:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232047.400:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232047.404:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:3008:0915/232052.203:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6944:11952:0915/232058.487:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232058.517:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232107.099:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232118.797:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:9828:0915/232212.505:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232212.514:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232223.497:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232223.524:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232231.566:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232243.862:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20732:1864:0915/232335.102:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232335.120:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232338.091:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232338.095:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232341.482:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232341.483:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:3008:0915/232345.620:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6944:11952:0915/232352.478:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232352.495:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232401.171:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232414.593:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232419.891:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232419.891:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232422.834:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232422.838:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:3008:0915/232426.712:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20732:1864:0915/232427.540:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232427.544:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232427.562:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232427.569:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232438.972:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232438.998:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232448.386:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232457.290:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:13060:0915/232711.821:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:9828:0915/232711.823:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232722.981:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:9828:0915/232722.982:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232729.973:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232729.994:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232734.426:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232734.447:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/232743.082:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232747.993:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232755.980:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232757.001:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232903.844:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232903.882:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232914.932:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/232914.957:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232923.549:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232923.564:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232929.057:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232930.927:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232930.928:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/232937.294:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/232937.305:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/232940.132:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:1864:0915/232942.429:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232942.429:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:21412:0915/232952.958:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/232952.960:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/233003.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/233004.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233004.054:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233015.042:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233023.335:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20732:9828:0915/233740.306:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:13060:0915/233740.332:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/233751.457:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233751.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233759.136:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/233809.677:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:6168:0915/234014.128:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[20732:1864:0915/234014.141:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/234024.943:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/234024.982:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/234038.783:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/234049.615:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[20732:1864:0915/234132.502:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0915/234132.510:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0915/234143.500:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0915/234143.538:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/234154.640:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0915/234203.046:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:3008:0915/234510.571:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20732:1864:0916/001210.103:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:6168:0916/001210.103:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6944:11952:0916/001220.996:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0916/001221.028:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6944:11952:0916/001231.131:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6944:11952:0916/001245.079:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20732:3008:0916/002304.597:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20732:19948:0916/011243.216:ERROR:device_event_log_impl.cc(196)] [01:12:42.929] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[20732:19948:0916/011243.889:ERROR:device_event_log_impl.cc(196)] [01:12:43.663] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[20732:3008:0916/011621.680:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20732:19948:0916/012942.201:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
