@@ -1,0 +1,24 @@
+[7076:18984:0930/230214.208:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7076:18844:0930/230214.241:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7076:18984:0930/230214.275:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6908:14552:0930/230221.262:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6908:14552:0930/230221.941:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6908:14552:0930/230231.668:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19392:7380:0930/230240.261:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-10C60EEBE8819D9F985860D8A6A44677 will be ignored
+[15376:2088:0930/230241.052:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15376:5932:0930/230241.091:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15376:5932:0930/230241.091:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15376:5932:0930/230241.092:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7076:9044:0930/230242.266:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[7076:18984:0930/230242.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7076:18984:0930/230242.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7076:18984:0930/230242.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7076:18984:0930/230242.930:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7076:9044:0930/230242.932:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[6908:14552:0930/230243.930:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[13492:10888:0930/230244.259:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13492:9524:0930/230244.291:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13492:9524:0930/230244.291:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13492:9524:0930/230244.292:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13492:10888:0930/230248.943:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7076:18984:0930/230416.464:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

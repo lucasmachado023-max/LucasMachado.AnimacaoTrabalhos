@@ -1,0 +1,111 @@
+[11972:13552:0929/230648.514:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11972:2408:0929/230648.601:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11972:13552:0929/230648.638:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19036:3480:0929/230656.166:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/230656.183:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/230705.094:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7068:17116:0929/230714.960:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-144CBFDED4EAF36B313DCDDB8B24493E will be ignored
+[19036:3480:0929/230719.927:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:9684:0929/232416.944:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232416.945:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232428.146:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232428.171:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232439.411:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/232452.626:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24820:0929/232607.443:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232607.465:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232618.642:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/232618.670:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232628.134:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232637.582:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11972:24864:0929/232804.537:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:7712:0929/232804.573:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232807.536:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232807.557:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232812.808:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232812.835:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232812.842:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232812.856:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232824.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/232824.223:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24872:0929/232831.751:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232831.758:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232838.560:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232842.627:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232842.661:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232847.128:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24820:0929/232849.469:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/232849.484:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232853.213:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/232853.240:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:21876:0929/232853.276:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232904.140:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/232904.182:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232905.450:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232913.543:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24864:0929/232928.038:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:21876:0929/232928.047:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/232930.742:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/232939.572:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232939.598:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/232952.367:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233001.974:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24864:0929/233038.654:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:7712:0929/233038.659:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/233049.585:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233049.614:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0929/233104.645:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233112.632:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11972:24864:0929/233212.211:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/233212.213:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/233217.875:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/233217.889:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/233221.267:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/233221.284:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/233227.903:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/233227.913:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/233239.166:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233239.194:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233249.714:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233304.252:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24820:0929/233333.628:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:7712:0929/233333.633:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/233344.592:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233344.622:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233352.899:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/233401.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:7712:0929/235836.701:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/235836.716:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:7712:0929/235839.747:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/235839.747:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0929/235842.578:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0929/235842.580:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0929/235854.498:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/235855.065:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/235910.472:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0929/235926.138:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11972:24820:0930/000330.110:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:7712:0930/000330.111:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24872:0930/000333.997:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0930/000333.997:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0930/000338.999:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0930/000339.011:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24864:0930/000340.404:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0930/000340.407:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0930/000345.479:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0930/000345.495:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0930/000345.502:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0930/000357.969:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0930/000358.637:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0930/000409.691:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0930/000424.967:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11972:24868:0930/003317.288:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19036:7712:0930/004038.827:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24820:0930/004038.848:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:9684:0930/004046.135:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11972:24864:0930/004046.135:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19036:3480:0930/004058.123:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0930/004058.790:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19036:3480:0930/004112.828:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19036:3480:0930/004127.126:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[11972:13552:0930/010236.541:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
