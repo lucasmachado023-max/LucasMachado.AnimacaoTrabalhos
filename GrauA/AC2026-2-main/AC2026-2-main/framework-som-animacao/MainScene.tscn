@@ -1,0 +1,44 @@
+[gd_scene format=3 uid="uid://dq0xb3y7jmke2"]
+
+[ext_resource type="Script" uid="uid://bvurba4br8twr" path="res://spectrum_analyzer_framework.gd" id="1_x4av3"]
+[ext_resource type="AudioStream" uid="uid://dwhsrxjipsbag" path="res://maldita.ogg" id="2_rpqi1"]
+[ext_resource type="ArrayMesh" uid="uid://3h5vue8rb8lb" path="res://Paredao.obj" id="3_rpqi1"]
+[ext_resource type="Script" uid="uid://d2vh48clg4sj6" path="res://paredaoBatida.gd" id="4_rf2cd"]
+[ext_resource type="Script" uid="uid://wfg1id2hscq4" path="res://paredao.gd" id="4_uxrcv"]
+[ext_resource type="Script" uid="uid://8346jrjhnh0p" path="res://paredaoBatidaEmissao.gd" id="5_a814b"]
+[ext_resource type="Script" uid="uid://dbuixubm0d5vx" path="res://paredaotremetreme.gd" id="6_5crlr"]
+
+[node name="Node3D" type="Node3D" unique_id=1575536893]
+
+[node name="SpectrumAnalyzerFramework" type="Node3D" parent="." unique_id=2005192086]
+script = ExtResource("1_x4av3")
+
+[node name="MusicPlayer" type="AudioStreamPlayer" parent="SpectrumAnalyzerFramework" unique_id=1941797760]
+stream = ExtResource("2_rpqi1")
+
+[node name="Paredao" type="MeshInstance3D" parent="." unique_id=686872577]
+transform = Transform3D(-0.9038427, 0, -0.42786503, 0, 1, 0, 0.42786503, 0, -0.9038427, -1.197393, -1.1920929e-07, -1.9715714)
+mesh = ExtResource("3_rpqi1")
+script = ExtResource("4_rf2cd")
+
+[node name="Paredao3" type="MeshInstance3D" parent="." unique_id=2018870263]
+transform = Transform3D(-0.32513925, 0, 0.94566643, 0, 1, 0, -0.94566643, 0, -0.32513925, -2.4740682, -2.3841858e-07, 4.7897067)
+mesh = ExtResource("3_rpqi1")
+script = ExtResource("5_a814b")
+
+[node name="Paredao2" type="MeshInstance3D" parent="." unique_id=1667855311]
+transform = Transform3D(0.09909445, 0, -0.995078, 0, 1, 0, 0.995078, 0, 0.09909445, -9.834029, -1.1920929e-07, -2.5387225)
+mesh = ExtResource("3_rpqi1")
+script = ExtResource("6_5crlr")
+
+[node name="ParedaoTecla1" type="MeshInstance3D" parent="." unique_id=1803852605]
+transform = Transform3D(-1.0634587, 0.062393054, -0.048501574, 0.2746612, 0.2435626, 0.0043170583, 0.12065059, -0.004515238, -0.43733793, -12.718384, -0.6115248, -18.690838)
+mesh = ExtResource("3_rpqi1")
+script = ExtResource("4_uxrcv")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1309419061]
+transform = Transform3D(0.5089615, 0, -0.8607893, 0, 1, 0, 0.8607893, 0, 0.5089615, -12.054832, 3.1540475, 2.9281716)
+current = true
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1572766618]
+transform = Transform3D(0.53862286, 0, -0.84254706, 0, 1, 0, 0.84254706, 0, 0.53862286, -5.517473, 4.6705413, 6.1271186)
