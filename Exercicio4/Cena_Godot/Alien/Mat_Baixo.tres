@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cbilq1etrykvx"]
+
+[ext_resource type="Texture2D" uid="uid://beojl8wcwl286" path="res://Alien/Alien_Bottom_diffuse.png" id="1_rjl7b"]
+
+[resource]
+albedo_texture = ExtResource("1_rjl7b")

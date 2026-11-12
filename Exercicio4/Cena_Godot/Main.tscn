@@ -1,0 +1,60 @@
+[gd_scene format=3 uid="uid://cw8xfeooiprmp"]
+
+[ext_resource type="Script" uid="uid://c3mbl2fncpdha" path="res://Alien/alien_completo.gd" id="2_r0du0"]
+[ext_resource type="PackedScene" uid="uid://cvvqx1rk5pqt1" path="res://Alien/AlienCompleto.fbx" id="2_uu6xs"]
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_uu6xs"]
+
+[node name="Node3D" type="Node3D" unique_id=232816406]
+
+[node name="Floor" type="CSGBox3D" parent="." unique_id=1905144758]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.03040409, 0.004327774, 0)
+use_collision = true
+size = Vector3(10, 0.1, 10)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=295476152]
+transform = Transform3D(1, 0, 0, 0, 0.8916911, 0.4526446, 0, -0.4526446, 0.8916911, -0.06815839, 6.1369166, 11.49565)
+fov = 45.8
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1291042242]
+transform = Transform3D(1, 0, 0, 0, 0.41041648, 0.91189826, 0, -0.91189826, 0.41041648, 0, 5.9842157, 0)
+
+[node name="AlienCompleto" parent="." unique_id=1359887360 instance=ExtResource("2_uu6xs")]
+transform = Transform3D(2.43, 0, 0, 0, 2.43, 0, 0, 0, 2.43, -2.430686, 0.1480012, 2.0729065)
+script = ExtResource("2_r0du0")
+
+[node name="Skeleton3D" parent="AlienCompleto/Armature" parent_id_path=PackedInt32Array(1359887360, 3299601) index="0" unique_id=716511669]
+bones/1/rotation = Quaternion(-0.10764782, 0, 0, 0.9941891)
+bones/8/rotation = Quaternion(0.54488224, 0.454689, -0.5441527, 0.44750327)
+bones/9/rotation = Quaternion(-0.09643036, 0.0029196849, -0.030121895, 0.99487954)
+bones/10/rotation = Quaternion(0.0052920254, 0.00027316192, 0.051554184, 0.99865615)
+bones/11/rotation = Quaternion(0.05304493, 0.2840736, -0.00634228, 0.957313)
+bones/12/rotation = Quaternion(1.485256e-06, 1.3952575e-07, 0.29477763, 0.95556587)
+bones/13/rotation = Quaternion(0.073798485, 4.828775e-08, -2.477461e-07, 0.9972732)
+bones/14/rotation = Quaternion(-0.017473591, 4.132901e-07, 2.2124549e-07, 0.99984735)
+bones/17/rotation = Quaternion(-0.0659231, 0.0003065113, -0.004638282, 0.9978139)
+bones/18/rotation = Quaternion(0.0874512, 2.0324677e-09, -2.6812242e-07, 0.9961688)
+bones/19/rotation = Quaternion(-0.020075338, -9.108442e-08, 2.8219412e-07, 0.9997985)
+bones/22/rotation = Quaternion(0.5221915, -0.4718248, 0.5597251, 0.43749884)
+bones/23/rotation = Quaternion(-0.09477283, -0.00194999, 0.020478942, 0.99528635)
+bones/24/rotation = Quaternion(0.0050638686, -0.00024406645, -0.048159335, 0.9988268)
+bones/25/rotation = Quaternion(0.10523118, -0.28002545, 0.006478944, 0.9541856)
+bones/26/rotation = Quaternion(7.9281557e-07, -1.6633497e-07, -0.26831824, 0.9633303)
+bones/27/rotation = Quaternion(0.045005683, 2.6481462e-07, 2.392819e-07, 0.9989867)
+bones/28/rotation = Quaternion(-0.021603948, 1.13308765e-07, -2.145841e-09, 0.99976665)
+bones/31/rotation = Quaternion(-0.08996893, -0.0013185343, 0.014596024, 0.99583673)
+bones/32/rotation = Quaternion(-0.013326257, -7.365866e-08, -7.137322e-08, 0.9999112)
+bones/33/rotation = Quaternion(0.09376336, -8.8971247e-10, -2.0039292e-07, 0.9955945)
+bones/36/rotation = Quaternion(-0.0014604155, -0.042748574, 0.9985141, -0.033762764)
+bones/37/rotation = Quaternion(0.009020834, -0.0002887746, -0.031262796, 0.9994705)
+bones/38/rotation = Quaternion(0.4851724, -0.043703374, 0.024288388, 0.87298787)
+bones/42/rotation = Quaternion(0.0014924732, -0.04415142, 0.9984533, 0.03375406)
+bones/43/rotation = Quaternion(0.009455383, 0.0002959032, 0.031255245, 0.99946666)
+bones/44/rotation = Quaternion(0.4815014, 0.04466502, -0.02457971, 0.8749613)
+
+[node name="AnimationPlayer" parent="AlienCompleto" index="3" unique_id=912532627]
+root_node = NodePath("../Armature/Skeleton3D")
+libraries/ = SubResource("AnimationLibrary_uu6xs")
+autoplay = &"Happy_Idle"
+
+[editable path="AlienCompleto"]
